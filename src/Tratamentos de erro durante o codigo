@@ -6,3 +6,7 @@ Tratamentos de Erro Adicionados:
     * Mensagem de aluno não encontrado na remoção.
     * Mensagem informativa quando não há alunos cadastrados para exibir.
 
+Divisao de trabalho:
+    * Antonio Gabinio - Tratamento de Erro e responsavel por fazer teste unitarios
+    * João Pedro e Ramon - Responsaveis por Desenvolver os arrays do codigo
+    * Adijair Araujo - Lapidar o menu de desenvolvimento e tratamento das clases
