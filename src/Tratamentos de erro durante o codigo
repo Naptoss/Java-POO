@@ -1,0 +1,8 @@
+Tratamentos de Erro Adicionados:
+
+    * Verificação de capacidade antes de adicionar um aluno.
+    * Checagem de duplicidade de RGM ao adicionar um novo aluno.
+    * A instrução scanner.nextLine() é usada após scanner.nextDouble() para consumir a quebra de linha.
+    * Mensagem de aluno não encontrado na remoção.
+    * Mensagem informativa quando não há alunos cadastrados para exibir.
+
